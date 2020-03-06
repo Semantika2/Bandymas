@@ -1,4 +1,4 @@
-# LITIS (soc. medijos tekstynas)
+# LITIS (soc. medijos tekstynas) (tekstynas bus įkeltas kelių dienų bėgyje)
 
 Amilevičius, Darius and Petkevičius, Mažvydas, 2016, LITIS v.1, CLARIN-LT digital library in the Republic of Lithuania, http://hdl.handle.net/20.500.11821/11.
 
